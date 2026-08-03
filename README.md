@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
+| [3925-concatenate-array-with-reverse](https://github.com/YashDekate19/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
 | ------- |
@@ -23,4 +24,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+## Simulation
+|  |
+| ------- |
+| [3925-concatenate-array-with-reverse](https://github.com/YashDekate19/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
