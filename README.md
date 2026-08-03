@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
+| [3668-restore-finishing-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3925-concatenate-array-with-reverse](https://github.com/YashDekate19/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -29,4 +30,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [3925-concatenate-array-with-reverse](https://github.com/YashDekate19/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
+## Hash Table
+|  |
+| ------- |
+| [3668-restore-finishing-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 <!---LeetCode Topics End-->
