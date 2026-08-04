@@ -41,4 +41,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
+## String
+|  |
+| ------- |
+| [3110-score-of-a-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/3110-score-of-a-string) |
 <!---LeetCode Topics End-->
