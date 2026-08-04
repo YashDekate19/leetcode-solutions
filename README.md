@@ -8,6 +8,7 @@ Leetcode Solutions
 | ------- |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
 | [3668-restore-finishing-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/YashDekate19/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
 |  |
@@ -35,4 +36,9 @@ Leetcode Solutions
 |  |
 | ------- |
 | [3668-restore-finishing-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
+## Sorting
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
