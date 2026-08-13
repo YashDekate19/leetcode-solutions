@@ -11,6 +11,7 @@ Leetcode Solutions
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashDekate19/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YashDekate19/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3668-restore-finishing-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/YashDekate19/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
@@ -49,6 +50,7 @@ Leetcode Solutions
 ## Sorting
 |  |
 | ------- |
+| [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
 |  |
@@ -67,4 +69,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2396-strictly-palindromic-number](https://github.com/YashDekate19/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+## Counting
+|  |
+| ------- |
+| [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 <!---LeetCode Topics End-->
