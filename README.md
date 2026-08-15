@@ -50,6 +50,7 @@ Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/YashDekate19/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## Sorting
@@ -63,6 +64,7 @@ Leetcode Solutions
 | [1108-defanging-an-ip-address](https://github.com/YashDekate19/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/3110-score-of-a-string) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/YashDekate19/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3794-reverse-string-prefix](https://github.com/YashDekate19/leetcode-solutions/tree/master/3794-reverse-string-prefix) |
 ## Two Pointers
 |  |
@@ -78,6 +80,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/YashDekate19/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
 |  |
 | ------- |
