@@ -39,6 +39,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0183-customers-who-never-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/0183-customers-who-never-order) |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/YashDekate19/leetcode-solutions/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Simulation
 |  |
 | ------- |
