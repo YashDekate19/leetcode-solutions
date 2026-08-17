@@ -10,6 +10,7 @@ Leetcode Solutions
 | [1920-build-array-from-permutation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashDekate19/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/YashDekate19/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YashDekate19/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
@@ -88,4 +89,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YashDekate19/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2433-find-the-original-array-of-prefix-xor](https://github.com/YashDekate19/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
