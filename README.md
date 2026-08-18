@@ -66,6 +66,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/YashDekate19/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1678-goal-parser-interpretation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YashDekate19/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
