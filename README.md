@@ -7,6 +7,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
+| [1389-create-target-array-in-the-given-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/YashDekate19/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1920-build-array-from-permutation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -52,6 +53,7 @@ Leetcode Solutions
 ## Simulation
 |  |
 | ------- |
+| [1389-create-target-array-in-the-given-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashDekate19/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
