@@ -79,6 +79,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1108-defanging-an-ip-address](https://github.com/YashDekate19/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
+| [1221-split-a-string-in-balanced-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/YashDekate19/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
@@ -98,6 +99,7 @@ Leetcode Solutions
 ## Counting
 |  |
 | ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YashDekate19/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
@@ -116,4 +118,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/YashDekate19/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
+## Greedy
+|  |
+| ------- |
+| [1221-split-a-string-in-balanced-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 <!---LeetCode Topics End-->
