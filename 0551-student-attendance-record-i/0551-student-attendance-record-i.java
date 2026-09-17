@@ -5,7 +5,10 @@ class Solution {
             if(s.charAt(i)=='A'){
                 a++;
             }
+            if(a>1 ){
+                return false;
+            }
         }
-        return a<2 && !s.contains("LLL");
+        return !s.contains("LLL");
     }
 }
