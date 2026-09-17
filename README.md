@@ -82,6 +82,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0551-student-attendance-record-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [1108-defanging-an-ip-address](https://github.com/YashDekate19/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1678-goal-parser-interpretation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
