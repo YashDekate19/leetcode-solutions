@@ -10,6 +10,7 @@ Leetcode Solutions
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/YashDekate19/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1528-shuffle-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/YashDekate19/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -89,6 +90,7 @@ Leetcode Solutions
 | [0551-student-attendance-record-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [1108-defanging-an-ip-address](https://github.com/YashDekate19/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1528-shuffle-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1678-goal-parser-interpretation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/YashDekate19/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
