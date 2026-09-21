@@ -10,6 +10,7 @@ Leetcode Solutions
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/YashDekate19/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1528-shuffle-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1528-shuffle-string) |
 | [1920-build-array-from-permutation](https://github.com/YashDekate19/leetcode-solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -82,6 +83,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -126,6 +128,7 @@ Leetcode Solutions
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
