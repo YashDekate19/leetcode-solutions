@@ -18,6 +18,7 @@ Leetcode Solutions
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashDekate19/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/YashDekate19/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
+| [2956-find-common-elements-between-two-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YashDekate19/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -74,6 +75,7 @@ Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [2956-find-common-elements-between-two-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YashDekate19/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3668-restore-finishing-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/3668-restore-finishing-order) |
