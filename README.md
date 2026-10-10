@@ -9,6 +9,7 @@ Leetcode Solutions
 | [0004-median-of-two-sorted-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YashDekate19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
@@ -38,6 +39,7 @@ Leetcode Solutions
 ## Math
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YashDekate19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/YashDekate19/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/YashDekate19/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
@@ -172,6 +174,7 @@ Leetcode Solutions
 ## Stack
 |  |
 | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YashDekate19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashDekate19/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashDekate19/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
