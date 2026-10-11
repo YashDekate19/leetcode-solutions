@@ -21,6 +21,7 @@ Leetcode Solutions
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/YashDekate19/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashDekate19/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/YashDekate19/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/YashDekate19/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
@@ -97,6 +98,7 @@ Leetcode Solutions
 | [0088-merge-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
 ## String
@@ -150,6 +152,7 @@ Leetcode Solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Matrix
 |  |
@@ -161,11 +164,13 @@ Leetcode Solutions
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashDekate19/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Divide and Conquer
 |  |
 | ------- |
