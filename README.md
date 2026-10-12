@@ -104,6 +104,7 @@ Leetcode Solutions
 ## String
 |  |
 | ------- |
+| [0394-decode-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/0394-decode-string) |
 | [0551-student-attendance-record-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
 | [0709-to-lower-case](https://github.com/YashDekate19/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashDekate19/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -180,6 +181,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YashDekate19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0394-decode-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/0394-decode-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashDekate19/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashDekate19/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -200,4 +202,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+## Recursion
+|  |
+| ------- |
+| [0394-decode-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
