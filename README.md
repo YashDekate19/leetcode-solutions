@@ -54,6 +54,7 @@ Leetcode Solutions
 | [3516-find-closest-person](https://github.com/YashDekate19/leetcode-solutions/tree/master/3516-find-closest-person) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashDekate19/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YashDekate19/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/YashDekate19/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3783-mirror-distance-of-an-integer](https://github.com/YashDekate19/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/YashDekate19/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/YashDekate19/leetcode-solutions/tree/master/3895-count-digit-appearances) |
@@ -166,6 +167,7 @@ Leetcode Solutions
 | [1221-split-a-string-in-balanced-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/YashDekate19/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 ## Binary Search
 |  |
 | ------- |
