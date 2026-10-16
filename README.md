@@ -44,6 +44,7 @@ Leetcode Solutions
 | [0150-evaluate-reverse-polish-notation](https://github.com/YashDekate19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
 | [1551-minimum-operations-to-make-array-equal](https://github.com/YashDekate19/leetcode-solutions/tree/master/1551-minimum-operations-to-make-array-equal) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/YashDekate19/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/YashDekate19/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/YashDekate19/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
 | [2469-convert-the-temperature](https://github.com/YashDekate19/leetcode-solutions/tree/master/2469-convert-the-temperature) |
@@ -63,6 +64,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/YashDekate19/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Game Theory
 |  |
 | ------- |
