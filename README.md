@@ -23,6 +23,7 @@ Leetcode Solutions
 | [2185-counting-words-with-a-given-prefix](https://github.com/YashDekate19/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2433-find-the-original-array-of-prefix-xor](https://github.com/YashDekate19/leetcode-solutions/tree/master/2433-find-the-original-array-of-prefix-xor) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YashDekate19/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -47,6 +48,7 @@ Leetcode Solutions
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/YashDekate19/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2125-number-of-laser-beams-in-a-bank](https://github.com/YashDekate19/leetcode-solutions/tree/master/2125-number-of-laser-beams-in-a-bank) |
 | [2396-strictly-palindromic-number](https://github.com/YashDekate19/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YashDekate19/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2469-convert-the-temperature](https://github.com/YashDekate19/leetcode-solutions/tree/master/2469-convert-the-temperature) |
 | [2652-sum-multiples](https://github.com/YashDekate19/leetcode-solutions/tree/master/2652-sum-multiples) |
 | [2769-find-the-maximum-achievable-number](https://github.com/YashDekate19/leetcode-solutions/tree/master/2769-find-the-maximum-achievable-number) |
@@ -91,6 +93,7 @@ Leetcode Solutions
 ## Hash Table
 |  |
 | ------- |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YashDekate19/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
 | [3146-permutation-difference-between-two-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/3146-permutation-difference-between-two-strings) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YashDekate19/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -145,6 +148,7 @@ Leetcode Solutions
 |  |
 | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/YashDekate19/leetcode-solutions/tree/master/1221-split-a-string-in-balanced-strings) |
+| [2442-count-number-of-distinct-integers-after-reverse-operations](https://github.com/YashDekate19/leetcode-solutions/tree/master/2442-count-number-of-distinct-integers-after-reverse-operations) |
 | [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/YashDekate19/leetcode-solutions/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Number Theory
