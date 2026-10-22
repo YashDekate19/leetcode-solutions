@@ -11,6 +11,7 @@ Leetcode Solutions
 | [0088-merge-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YashDekate19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0739-daily-temperatures](https://github.com/YashDekate19/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
 | [1389-create-target-array-in-the-given-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/1389-create-target-array-in-the-given-order) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/YashDekate19/leetcode-solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -195,6 +196,7 @@ Leetcode Solutions
 | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YashDekate19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0394-decode-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/0394-decode-string) |
+| [0739-daily-temperatures](https://github.com/YashDekate19/leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashDekate19/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/YashDekate19/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
@@ -220,4 +222,8 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/0394-decode-string) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/YashDekate19/leetcode-solutions/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
