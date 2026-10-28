@@ -121,6 +121,7 @@ Leetcode Solutions
 | ------- |
 | [0394-decode-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/0394-decode-string) |
 | [0551-student-attendance-record-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/0551-student-attendance-record-i) |
+| [0686-repeated-string-match](https://github.com/YashDekate19/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [0709-to-lower-case](https://github.com/YashDekate19/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/YashDekate19/leetcode-solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1108-defanging-an-ip-address](https://github.com/YashDekate19/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
@@ -222,6 +223,7 @@ Leetcode Solutions
 ## String Matching
 |  |
 | ------- |
+| [0686-repeated-string-match](https://github.com/YashDekate19/leetcode-solutions/tree/master/0686-repeated-string-match) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/YashDekate19/leetcode-solutions/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Quickselect
 |  |
@@ -251,4 +253,16 @@ Leetcode Solutions
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0912-sort-an-array) |
+## Z Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/YashDekate19/leetcode-solutions/tree/master/0686-repeated-string-match) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/YashDekate19/leetcode-solutions/tree/master/0686-repeated-string-match) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0686-repeated-string-match](https://github.com/YashDekate19/leetcode-solutions/tree/master/0686-repeated-string-match) |
 <!---LeetCode Topics End-->
