@@ -40,6 +40,7 @@ Leetcode Solutions
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashDekate19/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YashDekate19/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YashDekate19/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3895-count-digit-appearances](https://github.com/YashDekate19/leetcode-solutions/tree/master/3895-count-digit-appearances) |
 | [3925-concatenate-array-with-reverse](https://github.com/YashDekate19/leetcode-solutions/tree/master/3925-concatenate-array-with-reverse) |
 ## Math
@@ -62,6 +63,7 @@ Leetcode Solutions
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashDekate19/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/YashDekate19/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/YashDekate19/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/YashDekate19/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/YashDekate19/leetcode-solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3870-count-commas-in-range](https://github.com/YashDekate19/leetcode-solutions/tree/master/3870-count-commas-in-range) |
 | [3895-count-digit-appearances](https://github.com/YashDekate19/leetcode-solutions/tree/master/3895-count-digit-appearances) |
