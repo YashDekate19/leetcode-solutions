@@ -31,6 +31,7 @@ Leetcode Solutions
 | [2679-sum-in-a-matrix](https://github.com/YashDekate19/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
 | [2942-find-words-containing-character](https://github.com/YashDekate19/leetcode-solutions/tree/master/2942-find-words-containing-character) |
 | [2956-find-common-elements-between-two-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/2956-find-common-elements-between-two-arrays) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/YashDekate19/leetcode-solutions/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/YashDekate19/leetcode-solutions/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -120,6 +121,7 @@ Leetcode Solutions
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/YashDekate19/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2679-sum-in-a-matrix](https://github.com/YashDekate19/leetcode-solutions/tree/master/2679-sum-in-a-matrix) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YashDekate19/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/YashDekate19/leetcode-solutions/tree/master/3731-find-missing-elements) |
@@ -196,6 +198,7 @@ Leetcode Solutions
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/YashDekate19/leetcode-solutions/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2294-partition-array-such-that-maximum-difference-is-k](https://github.com/YashDekate19/leetcode-solutions/tree/master/2294-partition-array-such-that-maximum-difference-is-k) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2966-divide-array-into-arrays-with-max-difference](https://github.com/YashDekate19/leetcode-solutions/tree/master/2966-divide-array-into-arrays-with-max-difference) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/YashDekate19/leetcode-solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YashDekate19/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Binary Search
