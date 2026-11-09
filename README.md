@@ -8,6 +8,7 @@ Leetcode Solutions
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/YashDekate19/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0033-search-in-rotated-sorted-array) |
+| [0075-sort-colors](https://github.com/YashDekate19/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YashDekate19/leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0198-house-robber](https://github.com/YashDekate19/leetcode-solutions/tree/master/0198-house-robber) |
@@ -116,6 +117,7 @@ Leetcode Solutions
 ## Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YashDekate19/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -154,6 +156,7 @@ Leetcode Solutions
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/YashDekate19/leetcode-solutions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/YashDekate19/leetcode-solutions/tree/master/2161-partition-array-according-to-given-pivot) |
 | [2396-strictly-palindromic-number](https://github.com/YashDekate19/leetcode-solutions/tree/master/2396-strictly-palindromic-number) |
@@ -283,4 +286,12 @@ Leetcode Solutions
 |  |
 | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/YashDekate19/leetcode-solutions/tree/master/2221-find-triangular-sum-of-an-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YashDekate19/leetcode-solutions/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/YashDekate19/leetcode-solutions/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
