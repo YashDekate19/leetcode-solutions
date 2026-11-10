@@ -41,6 +41,7 @@ Leetcode Solutions
 | [3467-transform-array-by-parity](https://github.com/YashDekate19/leetcode-solutions/tree/master/3467-transform-array-by-parity) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/YashDekate19/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3668-restore-finishing-order](https://github.com/YashDekate19/leetcode-solutions/tree/master/3668-restore-finishing-order) |
+| [3693-climbing-stairs-ii](https://github.com/YashDekate19/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3701-compute-alternating-sum](https://github.com/YashDekate19/leetcode-solutions/tree/master/3701-compute-alternating-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/YashDekate19/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/YashDekate19/leetcode-solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -79,6 +80,7 @@ Leetcode Solutions
 | [0198-house-robber](https://github.com/YashDekate19/leetcode-solutions/tree/master/0198-house-robber) |
 | [0877-stone-game](https://github.com/YashDekate19/leetcode-solutions/tree/master/0877-stone-game) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/YashDekate19/leetcode-solutions/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [3693-climbing-stairs-ii](https://github.com/YashDekate19/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Game Theory
 |  |
 | ------- |
